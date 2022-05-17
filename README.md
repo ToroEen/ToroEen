@@ -1,4 +1,8 @@
+## 💻 About me
+
 - 👋 Hi, I’m kipteam though because of a mistake I became ToroEen
+
+## 📈 Stastics
 
 ![Kipteam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToroEen&show_icons=true&theme=dark)
 
